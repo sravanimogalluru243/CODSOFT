@@ -21,7 +21,7 @@ while True:
 
       characters_number = int(user_input)
 
-      if characters_number < 10:
+      if characters_number < 8:
 
          print("Your number should be at least 8.")
 
